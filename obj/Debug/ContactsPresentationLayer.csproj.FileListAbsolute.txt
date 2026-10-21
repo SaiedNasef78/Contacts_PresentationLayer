@@ -1,0 +1,17 @@
+C:\Users\SH\Programing\Learning\ContactsPresentationLayer\bin\Debug\ContactsPresentationLayer.exe.config
+C:\Users\SH\Programing\Learning\ContactsPresentationLayer\bin\Debug\ContactsPresentationLayer.exe
+C:\Users\SH\Programing\Learning\ContactsPresentationLayer\bin\Debug\ContactsPresentationLayer.pdb
+C:\Users\SH\Programing\Learning\ContactsPresentationLayer\bin\Debug\ContactsBusinessLayer.dll
+C:\Users\SH\Programing\Learning\ContactsPresentationLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\SH\Programing\Learning\ContactsPresentationLayer\bin\Debug\ContactsBusinessLayer.pdb
+C:\Users\SH\Programing\Learning\ContactsPresentationLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\SH\Programing\Learning\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\SH\Programing\Learning\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.frmListContacts.resources
+C:\Users\SH\Programing\Learning\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.Properties.Resources.resources
+C:\Users\SH\Programing\Learning\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.csproj.GenerateResource.cache
+C:\Users\SH\Programing\Learning\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\SH\Programing\Learning\ContactsPresentationLayer\obj\Debug\Contacts.3D89028D.Up2Date
+C:\Users\SH\Programing\Learning\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.exe
+C:\Users\SH\Programing\Learning\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.pdb
+C:\Users\SH\Programing\Learning\ContactsPresentationLayer\bin\Debug\Guna.UI2.dll
+C:\Users\SH\Programing\Learning\ContactsPresentationLayer\obj\Debug\ContactsPresentationLayer.frmAddEditContact.resources
